@@ -27,13 +27,13 @@ The preferred way to install this extension is through [composer](https://getcom
 Either run
 
 ```
-php composer.phar require --prefer-dist yiisoft/yii2-bootstrap5
+php composer.phar require --prefer-dist yatskanich/yii2-bootstrap5
 ```
 
 or add
 
 ```
-"yiisoft/yii2-bootstrap5": "*"
+"yatskanich/yii2-bootstrap5": "v1.0.0"
 ```
 
 to the require section of your `composer.json` file.
